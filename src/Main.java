@@ -4,6 +4,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		// Bjr madame
 		//nouvelllllle frooooooonce
+		//la trappe à fait son temps
 		PokedexInterface maFenetre = new PokedexInterface();
 	}
 
